@@ -1,0 +1,7 @@
+id = "dirty-robit-theme"
+name = "Dirty Robit Theme"
+version = "2.1.0"
+schema_version = 1
+authors = ["Gregory Nitch <nitch.gregory@gmail.com>"]
+description = "A dusty theme for hardworking people."
+repository = "https://github.com/Gregory-Nitch/Dirty-Robit-Theme"
