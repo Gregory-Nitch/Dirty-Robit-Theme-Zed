@@ -1,6 +1,6 @@
 # Dirty Robit Theme
 A dusty Zed theme for hardworking people. It may look a little dirty, but it is easy on the eyes. Now has non dusty/brown variants.
-![Dirty Robit Theme Example](https://raw.githubusercontent.com/Gregory-Nitch/Dirty-Robit-Theme/main/Theme_Example.webp)
+
 
 ## Variants
 - **Dirty Robit Theme**: The original warm, dusty palette.
