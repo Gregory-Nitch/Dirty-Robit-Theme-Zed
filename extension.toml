@@ -1,6 +1,6 @@
 id = "dirty-robit-theme"
 name = "Dirty Robit Theme"
-version = "2.2.0"
+version = "2.3.0"
 schema_version = 1
 authors = ["Gregory Nitch <nitch.gregory@gmail.com>"]
 description = "A dusty theme for hardworking people."
